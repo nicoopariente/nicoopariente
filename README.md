@@ -2,23 +2,21 @@
 
 Hello, GitHub! 👋
 
-I'm <Your Name Here>, a student at Brigham Young University-Idaho interested in <Your Profession/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
+I'm Nicolas Pariente, a student at Brigham Young University-Idaho interested in web development. Welcome to my GitHub profile!
 
 ## About Me
 
-- I'm currently learning ...
-- My goals are to ...
-- Ask me about ...
+- I'm currently learning more about Jira to handle test case tracking.
+- My goals are to finish my bachelor's in software development and to learn more about Cloud Computing.
 
 ## Technologies and Tools
 
-- Proficient in: <List of Programming Languages or Technologies>
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+- Proficient in: APIs, Salesforce, Javascript, SQL
+- Skills: Product Management, Teamwork
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
-- Here is my [Twitter](Your Twitter Profile Link) profile
+- Here is my [LinkedIn] www.linkedin.com/in/nicolás-pariente-a9055217b profile
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoopariente&count_private=true&show_icons=true)
 
