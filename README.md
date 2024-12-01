@@ -16,7 +16,7 @@ I'm Nicolas Pariente, a student at Brigham Young University-Idaho interested in 
 
 ## Let's Connect!
 
-- Here is my [LinkedIn] www.linkedin.com/in/nicolás-pariente-a9055217b profile
+- Here is my Linkedin profile: www.linkedin.com/in/nicolás-pariente-a9055217b
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoopariente&count_private=true&show_icons=true)
 
