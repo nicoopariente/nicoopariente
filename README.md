@@ -5,18 +5,16 @@ Hello, GitHub! 👋
 I'm Nicolas Pariente, a student at Brigham Young University-Idaho interested in web development. Welcome to my GitHub profile!
 
 ## About Me
-
-- I'm currently learning more about Jira to handle test case tracking.
-- My goals are to finish my bachelor's in software development and to learn more about Cloud Computing.
+- I aim to finish my bachelor's in software development and learn more about Cloud Computing.
 
 ## Technologies and Tools
 
-- Proficient in: APIs, Salesforce, Javascript, SQL
+- Proficient in: APIs, Salesforce, JavaScript, SQL
 - Skills: Product Management, Teamwork
 
 ## Let's Connect!
 
-- Here is my Linkedin profile: www.linkedin.com/in/nicolás-pariente-a9055217b
+- Here is my LinkedIn profile: www.linkedin.com/in/nicolás-pariente-a9055217b
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoopariente&count_private=true&show_icons=true)
 
